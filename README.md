@@ -28,8 +28,12 @@ Using Tableau, create visualizations that show:
 
 1. In the visualization below, there is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 ![Resources/Deliverable2_Checkout_Times_for_Users_Viz.jpg](Resources/Deliverable2_Checkout_Times_for_Users_Viz.jpg)
+2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 ![Resources/Deliverable2_Checkout_Times_by_Gender.jpg](Resources/Deliverable2_Checkout_Times_by_Gender.jpg)
+3. A heatmap is created showing the number of bike trips for each hour of each day of the week.
 ![Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour.jpg](Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour.jpg)
+4.  A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 ![Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour_by_Gender.jpg](Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour_by_Gender.jpg)
+5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 ![Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg](Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg)
 ### Deliverable 3
