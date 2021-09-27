@@ -38,4 +38,5 @@ Using Tableau, create visualizations that show:
 ![Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg](Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg)
 ### Deliverable 3
 
+Final Data Analysis - Tableau Public URL is pasted below.
 [https://public.tableau.com/app/profile/jose.mendez.iii/viz/Final_Analysis_Citibike/FinalAnalysis-Citibike?publish=yes](https://public.tableau.com/app/profile/jose.mendez.iii/viz/Final_Analysis_Citibike/FinalAnalysis-Citibike?publish=yes)
