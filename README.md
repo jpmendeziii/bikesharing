@@ -37,3 +37,5 @@ Using Tableau, create visualizations that show:
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 ![Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg](Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg)
 ### Deliverable 3
+
+[https://public.tableau.com/app/profile/jose.mendez.iii/viz/Final_Analysis_Citibike/FinalAnalysis-Citibike?publish=yes](https://public.tableau.com/app/profile/jose.mendez.iii/viz/Final_Analysis_Citibike/FinalAnalysis-Citibike?publish=yes)
