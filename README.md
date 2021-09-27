@@ -11,3 +11,4 @@
 ![Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour.jpg](Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour.jpg)
 ![Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour_by_Gender.jpg](Resources/Deliverable2_Checkout_Trips_by_Weekday_per_Hour_by_Gender.jpg)
 ![Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg](Resources/Deliverable2_User_Trips_by_Gender_by_Weekday.jpg)
+### Deliverable 3
